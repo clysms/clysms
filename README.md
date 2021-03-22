@@ -1,4 +1,5 @@
 # Hi! I'm Ryonfill.
+- I'm 13, B).
 
 # Personal Links
 - Profile - [Ryonfill](https://github.com/Ryonfill)
