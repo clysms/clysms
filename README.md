@@ -1,23 +1,13 @@
 # Ryuuncode
 
-# 💻 Languages:
-   - CSS
-   - Lua (formerly)
-
-## 🛠️ Projects:
+- Proficient in **CSS.**
+- 🛠️ Working on:
    - [Moonray](https://github.com/BDStyles/moonray)
    - [Hydrite](https://github.com/BDStyles/hydrite)
    - [voidfire](https://github.com/BDStyles/voidfire)
    - [🌠 Stellarburst](https://github.com/BDStyles/stellarburst)
    - [Imperials](https://github.com/BDStyles/imperials)
    - [Custom User Activity Backgrounds](https://github.com/BDStyles/custom-user-activity-backgrounds)
-
-### 🔮 Future Projects:
-   - Voidburst
-
-#### Organizations
-- [BD Fragments](https://github.com/BDFragments) - An organization specialized on creating snippets for Discord.
-- [BetterDiscordStyles](https://github.com/BetterDiscordStyles) - An organization specialized on creating styles or **themes** for Discord.
 
 ![image](https://user-images.githubusercontent.com/72931279/114631134-0cda8700-9c8a-11eb-8165-e1642d1f29c2.png)
 - "AlexFlipnote"
