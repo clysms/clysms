@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=evadeRyon)
+![](https://komarev.com/ghpvc/?username=ryonnn)
 
 **Who am I?**
 - *Hi 👋, I'm Ryon, a 13 year old programmer who programs in CSS and Lua, I'm not good at any of them but I still enjoy programming using those 2 languages.*
@@ -6,7 +6,7 @@
 **What I do**
 - *I make [Discord](https://discord.com) themes using CSS and I also make [Roblox](https://roblox.com) scripts using Lua!*
 - You can checkout some of my [Discord](https://discord.com) themes and Lua scripts by vising one of the links below!
-   - [BetterdiscordProjects](https://github.com/BetterdiscordProjects)
+   - [kitsunecord](https://github.com/kitsunecord)
    - [My Repositories](https://github.com/kitsuneRy?tab=repositories)
 
 <!--
