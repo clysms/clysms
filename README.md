@@ -3,9 +3,9 @@
 i make discord themes for fun.
 
 **websites/profiles/links:**
-- https://luxurydmg.carrd.co
-- https://discord.bio/p/luxurydmg
-- https://twitter.com/luxurydmg
+- https://komihiro.carrd.co
+- https://dsc.bio/komihiro
+- https://twitter.com/Komihiroo
 
 <!--
 ![image](https://media.discordapp.net/attachments/821426277709774881/828083264178487346/github.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828086206969020486/twitter.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828100070868123698/discord.png) |
